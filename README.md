@@ -21,32 +21,32 @@
 ### Notes
 
 - Feel free to add to this; pull Requests are VERY welcome!
-- This is intended as a list of resources to help with neuroscientific pursuits,
-  as opposed to artificial intelligence pursuits.
+- This is intended as a list of resources to help with neuroscientific 
+  pursuits, as opposed to artificial intelligence pursuits.
 
 ### Meta-resources
 
-- [NCBI databases - National Center for Biotechnology Information database list,
-  VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
-- [NIF - Neuroscience Infomation Framework - Search for EVERY kind of
+- [NCBI databases - National Center for Biotechnology Information database 
+  list, VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
+- [NIF - Neuroscience Infomation Framework - Search for EVERY kind of 
   neuroscience data, atlas, software, everything!](https://neuinfo.org/)
-    - This is the most comprehensive tool for open neuroscience resources in the
-      world. If it exists on the internet, it's probably indexed here.
-- [NSG - Neuroscience Gateway - An online resource that allows public usage of
-  high performance computing resources for neural
+    - This is the most comprehensive tool for open neuroscience resources in 
+      the world. If it exists on the internet, it's probably indexed here.
+- [NSG - Neuroscience Gateway - An online resource that allows public usage of 
+  high performance computing resources for neural 
   simulation!](http://www.nsgportal.org/index.html)
-- [Jim Perlewitz' "Computational Neuroscience on the Web" - Probably the most
-  comprehensive curated list of computational neuroscience modeling tools on the
-  internet. HIGHLY recommended.](http://home.earthlink.net/~perlewitz/)
-- [Allen Institute for Brain
+- [Jim Perlewitz' "Computational Neuroscience on the Web" - Probably the most 
+  comprehensive curated list of computational neuroscience modeling tools on 
+  the internet. HIGHLY recommended.](http://home.earthlink.net/~perlewitz/)
+- [Allen Institute for Brain 
   Science](http://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/)
-- For Open Hardware, see [see this Open Science Resources page]
-  (https://github.com/asoplata/open-science-resources#open-diy-hardware)
+- For Open Hardware, see [see this Open Science Resources 
+  page](https://github.com/asoplata/open-science-resources#open-diy-hardware)
 
 ### Markup Languages for cross-simulator model usage
 
 - [CellML - A model description language for general biological mathematical
-  modeling](https://www.cellml.org/
+  modeling](https://www.cellml.org/)
 - [NeuroML - A model description language for computational
   neuroscience](https://www.neuroml.org/)
     - Converts to different kinds of simulators:
@@ -66,8 +66,8 @@
 - This only lists neuroscience-specific open data repositories. For general
   science data repositories that may contain neuroscience data like
   [re3data](https://www.re3data.org/search?query=neuroscience), [see this Open
-  Science Resources page]
-  (https://github.com/asoplata/open-science-resources#open-data-repositories-and-services)
+  Science Resources 
+  page](https://github.com/asoplata/open-science-resources#open-data-repositories-and-services)
 - [3D Brain Atlas Reconstructor](http://www.3dbars.org/)
 - [Allen Brain Atlas Data Portal](http://brain-map.org/)
     - [More detail
@@ -85,8 +85,8 @@
   Initiative](http://fcon_1000.projects.nitrc.org/)
 - [iEEG.org - National Institutes of Neurological Disorders and Stroke EEG data
   repository for epilepsy research](https://www.ieeg.org/)
-- [NCBI databases - National Center for Biotechnology Information database list,
-  VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
+- [NCBI databases - National Center for Biotechnology Information database
+  list, VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
 - [NDA - National Institute of Mental Health Data
   Archive](https://data-archive.nimh.nih.gov/)
 - [NIF - Neuroscience Information Framework, massive search engine for
@@ -125,8 +125,8 @@
       artificial."](https://senselab.med.yale.edu/3DModelDB/)
     - [ORModelDB - "A resource that is a repository of the results of the
       efforts of the community is computationally elucidating the structure of
-      the olfactory receptor with a view to establishing a mechanistic basis for
-      OR-odorant binding."](https://senselab.med.yale.edu/OrModelDB/)
+      the olfactory receptor with a view to establishing a mechanistic basis
+      for OR-odorant binding."](https://senselab.med.yale.edu/OrModelDB/)
     - [OdorMapDB - Olfactory Bulb Odor Map
       DataBase](https://senselab.med.yale.edu/OdorMapDB/)
     - [OdorDB - Odor Molecules DataBase](https://senselab.med.yale.edu/OdorDB/)
@@ -166,8 +166,9 @@
 
 - [EEGLAB - MATLAB toolbox for EEG, MEG, and ECOG data analysis and
   visualization](https://sccn.ucsd.edu/eeglab/index.php)
-- [Elephant - Software for common electrophysiological data analysis operations,
-  built on the Neo data format](http://neuralensemble.org/elephant/)
+- [Elephant - Software for common electrophysiological data analysis
+  operations, built on the Neo data
+  format](http://neuralensemble.org/elephant/)
 - [Geppetto - Web-based, open-source visualization platform for computational
   biology](http://www.geppetto.org/)
 - [OpenElectrophy - Analysis software for electrophysiological data, built on
@@ -203,8 +204,8 @@
   Brain Project](https://github.com/BlueBrain/CoreNeuron)
 - [DiPDE - Platform for population-level neural
   simulation](http://alleninstitute.github.io/dipde/)
-- [DynaSim - Open-source MATLAB/GNU Octave toolbox for neural simulation. Offers
-  built-in parallelization, compilation, and batch/cluster simulation
+- [DynaSim - Open-source MATLAB/GNU Octave toolbox for neural simulation.
+  Offers built-in parallelization, compilation, and batch/cluster simulation
   management.](https://dynasim.github.io/)
 - [GENESIS / PGENESIS - Longstanding platform for neural
   simulation](http://www.genesis-sim.org/)
@@ -216,14 +217,14 @@
   Environment](https://moose.ncbs.res.in/) (Not to be confused with this [Moose
   Simulator](https://www.youtube.com/watch?v=axtA_Bls1ag&t=11s)
 - [Nengo - Large-scale neural simulator](https://www.nengo.ai/)
-- [NEST - A popular, actively developed neural simulator that can simulate large
-  neural systems](http://www.nest-simulator.org/)
+- [NEST - A popular, actively developed neural simulator that can simulate
+  large neural systems](http://www.nest-simulator.org/)
 - [NEURON - Potentially the most popular computational neuroscience model
   simulator](https://neuron.yale.edu/neuron/)
 - [NeuroRD - "A computationally efficient, stochastic reaction-diffusion
   simulator".](http://krasnow1.gmu.edu/CENlab/software.html)
-- [PyRhO - Virtual laboratory for optogenetic simulation. Integrates with NEURON
-  and Brian2 models.](https://github.com/ProjectPyRhO/PyRhO)
+- [PyRhO - Virtual laboratory for optogenetic simulation. Integrates with
+  NEURON and Brian2 models.](https://github.com/ProjectPyRhO/PyRhO)
     - [Prometheus - Related docker image for use with PyRhO via "Modelling as a
       Service"](https://github.com/ProjectPyRhO/Prometheus)
 - [PSICS - Parallel Stochastic Ion Channel Simulator](http://www.psics.org/)
@@ -236,8 +237,8 @@
 
 ##### Auxiliary Simulator Software
 
-- [BluePyOpt - Blue Brain Python Optimisation Library, for optimizing parameters
-  in neural models](https://github.com/BlueBrain/BluePyOpt)
+- [BluePyOpt - Blue Brain Python Optimisation Library, for optimizing
+  parameters in neural models](https://github.com/BlueBrain/BluePyOpt)
 - [Lancet - Software for managing large volumes of neural
   simulations](http://ioam.github.io/lancet/)
 - [neuroConstruct - Software for developing biologically realistic 3D neural
@@ -248,8 +249,8 @@
   above.](https://pythonhosted.org/NeuroTools/)
 - [NSDF - Neuroscience Simulation Data Format, built on
   HDF5](https://github.com/nsdf/nsdf)
-- [pypet - Python parameter exploration toolkit for managing parameter sweeps of
-  simulations in neural simulators like Brian. Has Sumatra
+- [pypet - Python parameter exploration toolkit for managing parameter sweeps
+  of simulations in neural simulators like Brian. Has Sumatra
   integration.](http://pypet.readthedocs.io/en/latest/)
 - [Sumatra - An "automated electronic lab notebook" for managing simulation and
   analysis projects](http://neuralensemble.org/sumatra/)
