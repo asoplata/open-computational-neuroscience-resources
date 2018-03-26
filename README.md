@@ -21,8 +21,8 @@
 ### Notes
 
 - Feel free to add to this; pull Requests are VERY welcome!
-- This is intended as a list of resources to help with neuroscientific 
-  pursuits, as opposed to artificial intelligence pursuits.
+- This is intended as a list of resources to help with *neuroscientific* 
+  pursuits, as opposed to *artificial intelligence* pursuits.
 
 ### Meta-resources
 
@@ -36,7 +36,7 @@
   high performance computing resources for neural 
   simulation!](http://www.nsgportal.org/index.html)
 - [Jim Perlewitz' "Computational Neuroscience on the Web" - Probably the most 
-  comprehensive curated list of computational neuroscience modeling tools on 
+  comprehensive *curated* list of computational neuroscience modeling tools on 
   the internet. HIGHLY recommended.](http://home.earthlink.net/~perlewitz/)
 - [Allen Institute for Brain 
   Science](http://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/)
@@ -215,7 +215,7 @@
   models](https://lfpy.readthedocs.io/en/latest/)
 - [MOOSE - Multiscale Object-Oriented Simulate
   Environment](https://moose.ncbs.res.in/) (Not to be confused with this [Moose
-  Simulator](https://www.youtube.com/watch?v=axtA_Bls1ag&t=11s)
+  Simulator](https://www.youtube.com/watch?v=axtA_Bls1ag&t=11s))
 - [Nengo - Large-scale neural simulator](https://www.nengo.ai/)
 - [NEST - A popular, actively developed neural simulator that can simulate
   large neural systems](http://www.nest-simulator.org/)
