@@ -159,6 +159,8 @@
 - [Neurostars - Neuroscience Q and A website](https://neurostars.org/)
 - [NIMH - National Institute of Mental
   Health](https://www.nimh.nih.gov/index.shtml)
+- [Reddit /r/Neuroscience 
+  resources](https://www.reddit.com/r/neuroscience/comments/2u87cl/rneuroscience_resource_compilaton/)
 
 ### Software
 
