@@ -166,11 +166,13 @@
 
 ##### Non-imaging Analysis
 
+- [Chronux - MATLAB toolbox for EEG analysis, including some tools for MEG, fMRI, and image data](http://chronux.org/)
 - [EEGLAB - MATLAB toolbox for EEG, MEG, and ECOG data analysis and
   visualization](https://sccn.ucsd.edu/eeglab/index.php)
 - [Elephant - Software for common electrophysiological data analysis
   operations, built on the Neo data
   format](http://neuralensemble.org/elephant/)
+- [FieldTrip - MATLAB toolbox for EEG, MEG, and ECoG analysis](http://www.fieldtriptoolbox.org/)
 - [Geppetto - Web-based, open-source visualization platform for computational
   biology](http://www.geppetto.org/)
 - [OpenElectrophy - Analysis software for electrophysiological data, built on
