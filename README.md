@@ -58,8 +58,12 @@
 
 - [Computational Neuroscience at
   Coursera](https://www.coursera.org/learn/computational-neuroscience)
+- [Computational Neuroscience: Neuronal Dynamics of Cognition at edX](https://www.edx.org/course/computational-neuroscience-neuronal-dynamics-of-cognition)
 - [Neuronal Dynamics at
   edX](https://www.edx.org/course/neuronal-dynamics-epflx-bio465-1x)
+- [Neuroscience course material from OpenCourseWare (OCW) at MIT Department of Brain and Cognitive Sciences - HUGE list!](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
+- [Simulation Neuroscience at edX](https://www.edx.org/course/simulation-neuroscience-epflx-simneurox)
+
 
 ### Open Data
 
