@@ -181,6 +181,7 @@
   biology](http://www.geppetto.org/)
 - [OpenElectrophy - Analysis software for electrophysiological data, built on
   the Neo data format](http://neuralensemble.org/OpenElectrophy/)
+- [MNE - MEG + EEG analysis and visualization tool in Python](http://martinos.org/mne/stable/index.html)
 - [Neo - Python library for enabling interoperability of electrophysiological
   data, including conversion from proprietary file
   formats](http://neuralensemble.org/neo/)
