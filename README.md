@@ -23,6 +23,8 @@
 - Feel free to add to this; pull Requests are VERY welcome!
 - This is intended as a list of resources to help with *neuroscientific* 
   pursuits, as opposed to *artificial intelligence* pursuits.
+- [More broadly, I've made a similar repo-list of general open science 
+  resources here](https://github.com/asoplata/open-science-resources).
 
 ### Meta-resources
 
