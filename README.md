@@ -163,9 +163,10 @@
 - [NeuralEnsemble, focused on software development in
   neuroscience](http://neuralensemble.org/)
 - [Neurostars - Neuroscience Q and A website](https://neurostars.org/)
-- [NIMH - National Institute of Mental
-- [An Open Computational Neuroscience list I've made on Twitter](https://twitter.com/austinsoplata/lists/opencompneuroscience)
+- [NIMH - National Institute of Mental 
   Health](https://www.nimh.nih.gov/index.shtml)
+- [An Open Computational Neuroscience list I've made on 
+  Twitter](https://twitter.com/austinsoplata/lists/opencompneuroscience)
 - [Reddit /r/Neuroscience 
   resources](https://www.reddit.com/r/neuroscience/comments/2u87cl/rneuroscience_resource_compilaton/)
 
