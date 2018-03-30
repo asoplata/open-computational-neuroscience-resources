@@ -9,7 +9,7 @@
     - [Open Data](#open-data)
         - [Open Model Repositories](#open-model-repositories)
     - [Open Textbooks](#open-textbook)
-    - [Organizations](#organizations)
+    - [Organizations and Communities](#organizations-and-communities)
     - [Software](#software)
         - [Non-imaging Analysis](#non-imaging-analysis)
         - [Imaging Analysis](#imaging-analysis)
@@ -156,7 +156,7 @@
 - [Neuronal Dynamics: From single neurons to networks and models of
   cognition](http://neuronaldynamics.epfl.ch/)
 
-### Organizations
+### Organizations and Communities
 
 - [INCF - International Neuroinformatics Coordinating
   Facility](https://www.incf.org/about)
@@ -164,6 +164,7 @@
   neuroscience](http://neuralensemble.org/)
 - [Neurostars - Neuroscience Q and A website](https://neurostars.org/)
 - [NIMH - National Institute of Mental
+- [An Open Computational Neuroscience list I've made on Twitter](https://twitter.com/austinsoplata/lists/opencompneuroscience)
   Health](https://www.nimh.nih.gov/index.shtml)
 - [Reddit /r/Neuroscience 
   resources](https://www.reddit.com/r/neuroscience/comments/2u87cl/rneuroscience_resource_compilaton/)
