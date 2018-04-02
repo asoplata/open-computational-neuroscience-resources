@@ -158,6 +158,7 @@
 
 ### Organizations and Communities
 
+- [CodeNeuro - Bringing neuroscience and data science together](http://codeneuro.org/)
 - [INCF - International Neuroinformatics Coordinating
   Facility](https://www.incf.org/about)
 - [NeuralEnsemble, focused on software development in
