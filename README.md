@@ -231,6 +231,7 @@
 - [MOOSE - Multiscale Object-Oriented Simulate
   Environment](https://moose.ncbs.res.in/) (Not to be confused with this [Moose
   Simulator](https://www.youtube.com/watch?v=axtA_Bls1ag&t=11s))
+- [NEF - Neural Engineering Framework](http://compneuro.uwaterloo.ca/research/nef.html)
 - [Nengo - Large-scale neural simulator](https://www.nengo.ai/)
 - [NEST - A popular, actively developed neural simulator that can simulate
   large neural systems](http://www.nest-simulator.org/)
