@@ -259,6 +259,8 @@
 - [neuroConstruct - Software for developing biologically realistic 3D neural
   networks geometries, for simulation by NEURON, PyNN,
   etc.](http://www.neuroconstruct.org/)
+- [neuroHDF - HDF5 data format for 
+  neuroscience](https://neurohdf.readthedocs.io/en/latest/)
 - [NeuroTools - Collection of tools for "simulation setup, parameterization,
   data management, analysis, and visualization" for many neural simulators
   above.](https://pythonhosted.org/NeuroTools/)
