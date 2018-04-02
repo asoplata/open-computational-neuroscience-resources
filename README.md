@@ -191,6 +191,7 @@
   formats](http://neuralensemble.org/neo/)
 - [SpykeViewer - Analysis software for spikes of electrophysiological data,
   built on the Neo data format](http://neuralensemble.org/SpykeViewer/)
+- [supereeg - Sparse ECoG analysis](http://supereeg.readthedocs.io/en/latest/)
 - [Vaa3D - 3D Visualization-Assisted
   Analysis](http://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/vaa3d/)
 
