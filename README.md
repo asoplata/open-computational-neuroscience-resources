@@ -99,6 +99,7 @@
 
 - [Allen SDK - Allen (Institute) Software Development Kit for Allen Brain 
   Atlas](http://alleninstitute.github.io/AllenSDK/)
+- [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn)
 - [CATMAID - The Collaborative Annotation Toolkit for Massive Amounts of Image
   Data](http://catmaid.readthedocs.io/en/stable/)
 - [FreeSurfer - Popular open-source MRI processing and analysis
