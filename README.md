@@ -185,7 +185,7 @@
 - [Computational Neuroscience: Neuronal Dynamics of Cognition at edX](https://www.edx.org/course/computational-neuroscience-neuronal-dynamics-of-cognition)
 - [Neuronal Dynamics at
   edX](https://www.edx.org/course/neuronal-dynamics-epflx-bio465-1x)
-    - .[The open book for this course is available here](http://neuronaldynamics.epfl.ch/online/index.html)
+    - [The open book for this course is available here](http://neuronaldynamics.epfl.ch/online/index.html)
 - [Neuroscience course material from OpenCourseWare (OCW) at MIT Department of Brain and Cognitive Sciences - HUGE list!](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
 - [Simulation Neuroscience at edX](https://www.edx.org/course/simulation-neuroscience-epflx-simneurox)
 
@@ -226,6 +226,8 @@
   neuroscience data, tools, etc.](http://www.neuinfo.org/)
 - [NITRC - NeuroImaging Tools and Resources
   Collaboratory](https://www.nitrc.org/)
+- [NMC - Neocortical Microcircuit Collaboration, part of Blue 
+  Brain](https://bbp.epfl.ch/nmc-portal/welcome)
 - [NWB - Neurodata Without Borders - A standardized format for
   electrophysiological, and in the future other, neuroscience data. Some data
   sets available on the site in this format.](http://nwb.org/)
@@ -301,6 +303,7 @@
   Health](https://www.nimh.nih.gov/index.shtml)
 - [An Open Computational Neuroscience list I've made on 
   Twitter](https://twitter.com/austinsoplata/lists/opencompneuroscience)
+- [Organization for Human Brain Mapping](https://www.humanbrainmapping.org)
 - [Reddit /r/Neuroscience 
   resources](https://www.reddit.com/r/neuroscience/comments/2u87cl/rneuroscience_resource_compilaton/)
 - [SFN - Society for Neuroscience](https://www.sfn.org/)
