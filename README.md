@@ -49,6 +49,7 @@
 - Open Hardware - [see this Open Science Resources 
   page](https://github.com/asoplata/open-science-resources#open-diy-hardware)
 - [Wikipedia List of Neuroscience Databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
+- [An aggregation of neuroscience journal RSS feeds](http://sanjayankur31.github.io/planet-neuroscience/)
 
 ### Markup Languages for cross-simulator model usage
 
