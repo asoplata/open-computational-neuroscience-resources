@@ -1,30 +1,42 @@
-# Open Computational Neuroscience Resources!
+# Open Computational Neuroscience Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- Table of Contents:
-    - [Notes](#notes)
+Computational neuroscience means one of two things: 1. analysis of
+neuroscientific data, whether it be fMRI imaging data, electrode recordings
+from a mouse running in a maze, statistical modeling of that data, or something
+else, and 2. simulation of neural systems, including modeling many compartments
+of a single neuron, or large networks of model neurons with simple individual
+behavior. These endeavors require expensive data from wet-lab experiments, but
+much of the work can be accomplished using everyday, consumer-grade laptop and
+desktop computers! Indeed, the biggest barrier to entry is not hardware, data,
+or expense, but rather time and passion to learn the tools needed for such
+computational science. Coupled with the great tools coming out of the modern
+Data Science movement, open data, open simulation models, and open analysis and
+simulation tools for computational neuroscience make it easier than ever to
+learn or even contribute to the study of the brain! The resources below should
+be more than enough to provide anyone with the means to begin learning or
+working in computational neuroscience, at no cost other than time and a
+modern computer.
+
+Note: This is intended as a list of resources to help with *neuroscientific*
+pursuits, as opposed to *artificial intelligence* pursuits. [More broadly, I've
+made a similar repo-list of general open science resources
+here](https://github.com/asoplata/open-science-resources).
+
+Contributions are VERY welcome!
+
+-----------------------------------
+
+- Contents:
     - [Meta-resources](#meta-resources)
     - [Markup Languages for cross-simulator model
       usage](#markup-languages-for-cross-simulator-model-usage)
     - [Open Code](#open-code)
-        - [Non-imaging Analysis](#non-imaging-analysis)
-        - [Imaging Analysis](#imaging-analysis)
-        - [Simulation](#simulation)
-        - [Auxiliary Simulator Software](#auxiliary-simulator-software)
     - [Open Courses](#open-courses)
     - [Open Data](#open-data)
-        - [Open Model Repositories](#open-model-repositories)
     - [Open Textbooks](#open-textbook)
     - [Organizations and Communities](#organizations-and-communities)
 
 -----------------------------------
-
-### Notes
-
-- Feel free to add to this; pull Requests are VERY welcome!
-- This is intended as a list of resources to help with *neuroscientific* 
-  pursuits, as opposed to *artificial intelligence* pursuits.
-- [More broadly, I've made a similar repo-list of general open science 
-  resources here](https://github.com/asoplata/open-science-resources).
 
 ### Meta-resources
 
@@ -190,6 +202,7 @@
     - [The open book for this course is available here](http://neuronaldynamics.epfl.ch/online/index.html)
 - [Neuroscience course material from OpenCourseWare (OCW) at MIT Department of Brain and Cognitive Sciences - HUGE list!](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
 - [Simulation Neuroscience at edX](https://www.edx.org/course/simulation-neuroscience-epflx-simneurox)
+- [Interactive webpage illustrating spiking neural models](http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/)
 
 ### Open Data
 
