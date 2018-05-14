@@ -12,10 +12,10 @@ or expense, but rather time and passion to learn the tools needed for such
 computational science. Coupled with the great tools coming out of the modern
 Data Science movement, open data, open simulation models, and open analysis and
 simulation tools for computational neuroscience make it easier than ever to
-learn or even contribute to the study of the brain! The resources below should
+learn or even contribute to the study of the brain! **The resources below should
 be more than enough to provide anyone with the means to begin learning or
 working in computational neuroscience, at no cost other than time and a
-modern computer.
+modern computer.**
 
 Note: This is intended as a list of resources to help with *neuroscientific*
 pursuits, as opposed to *artificial intelligence* pursuits. [More broadly, I've
