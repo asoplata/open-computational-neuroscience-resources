@@ -1,3 +1,4 @@
+
 # Open Computational Neuroscience Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Computational neuroscience means one of two things: 1. analysis of
@@ -40,25 +41,25 @@ Contributions are VERY welcome!
 
 ### Meta-resources
 
-- [Allen Institute for Brain 
+- [Allen Institute for Brain
   Science](http://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/)
 - [COMBINE - Computational modeling in biology network](http://co.mbine.org/standards)
-- [Comparison of Neural Network 
+- [Comparison of Neural Network
   Simulators](https://grey.colorado.edu/emergent/index.php/Comparison_of_Neural_Network_Simulators)
 - [Computational Neuroscience journals](http://www.cnsorg.org/journals)
-- [Jim Perlewitz' "Computational Neuroscience on the Web" - Probably the most 
-  comprehensive *curated* list of computational neuroscience modeling tools on 
+- [Jim Perlewitz' "Computational Neuroscience on the Web" - Probably the most
+  comprehensive *curated* list of computational neuroscience modeling tools on
   the internet. HIGHLY recommended.](http://home.earthlink.net/~perlewitz/)
-- [NCBI databases - National Center for Biotechnology Information database 
+- [NCBI databases - National Center for Biotechnology Information database
   list, VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
-- [NIF - Neuroscience Infomation Framework - Search for EVERY kind of 
+- [NIF - Neuroscience Infomation Framework - Search for EVERY kind of
   neuroscience data, atlas, software, everything!](https://neuinfo.org/)
-    - This is the most comprehensive tool for open neuroscience resources in 
+    - This is the most comprehensive tool for open neuroscience resources in
       the world. If it exists on the internet, it's probably indexed here.
-- [NSG - Neuroscience Gateway - An online resource that allows public usage of 
-  high performance computing resources for neural 
+- [NSG - Neuroscience Gateway - An online resource that allows public usage of
+  high performance computing resources for neural
   simulation!](http://www.nsgportal.org/index.html)
-- Open Hardware - [see this Open Science Resources 
+- Open Hardware - [see this Open Science Resources
   page](https://github.com/asoplata/open-science-resources#open-diy-hardware)
 - [Wikipedia List of Neuroscience Databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
 - [An aggregation of neuroscience journal RSS feeds](http://sanjayankur31.github.io/planet-neuroscience/)
@@ -92,14 +93,14 @@ Contributions are VERY welcome!
   biology](http://www.geppetto.org/)
 - [OpenElectrophy - Analysis software for electrophysiological data, built on
   the Neo data format](http://neuralensemble.org/OpenElectrophy/)
-- [MNE - MEG + EEG analysis and visualization tool in 
+- [MNE - MEG + EEG analysis and visualization tool in
   Python](http://martinos.org/mne/stable/index.html)
 - [Neo - Python library for enabling interoperability of electrophysiological
   data, including conversion from proprietary file
   formats](http://neuralensemble.org/neo/)
-- [NeuronUnit - Data-driven model validation for 
+- [NeuronUnit - Data-driven model validation for
   neuroscience](https://github.com/scidash/neuronunit)
-- [SpectraVis - Network visualization tool for functional brain connectivity 
+- [SpectraVis - Network visualization tool for functional brain connectivity
   in-browser](https://github.com/NeurophysVis/SpectraVis)
 - [Spike Sorting Software - VERY good comparison of different spike sorting software capabilities](https://simonster.github.io/SpikeSortingSoftware/)
 - [SpykeViewer - Analysis software for spikes of electrophysiological data,
@@ -110,7 +111,7 @@ Contributions are VERY welcome!
 
 ##### Imaging Analysis
 
-- [Allen SDK - Allen (Institute) Software Development Kit for Allen Brain 
+- [Allen SDK - Allen (Institute) Software Development Kit for Allen Brain
   Atlas](http://alleninstitute.github.io/AllenSDK/)
 - [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn)
 - [CATMAID - The Collaborative Annotation Toolkit for Massive Amounts of Image
@@ -160,7 +161,7 @@ Contributions are VERY welcome!
       Service"](https://github.com/ProjectPyRhO/Prometheus)
 - [PSICS - Parallel Stochastic Ion Channel Simulator](http://www.psics.org/)
 - [PCSIM - Parallel neural Circuit SIMulator](http://www.lsm.tugraz.at/pcsim/)
-  (The successor to [CSIM](http://www.lsm.tugraz.at/csim/)) 
+  (The successor to [CSIM](http://www.lsm.tugraz.at/csim/))
 - [PyNN - Language for building neuronal network models meant for export to
   other simulators](http://neuralensemble.org/docs/PyNN/0.7/)
 - [Spike - "A high speed Spiking Neural Network Simulator designed for
@@ -170,16 +171,16 @@ Contributions are VERY welcome!
 
 - [BluePyOpt - Blue Brain Python Optimisation Library, for optimizing
   parameters in neural models](https://github.com/BlueBrain/BluePyOpt)
-- [GIMBL-Vis - Multi-dimensional visualization toolbox; integrates with 
+- [GIMBL-Vis - Multi-dimensional visualization toolbox; integrates with
   DynaSim](https://github.com/erik-roberts/GIMBL-Vis)
 - [Lancet - Software for managing large volumes of neural
   simulations](http://ioam.github.io/lancet/)
 - [neuroConstruct - Software for developing biologically realistic 3D neural
   networks geometries, for simulation by NEURON, PyNN,
   etc.](http://www.neuroconstruct.org/)
-- [Neurofitter - Parameter tuning software for electrophysiological neural 
+- [Neurofitter - Parameter tuning software for electrophysiological neural
   models like NEURON](http://neurofitter.sourceforge.net)
-- [neuroHDF - HDF5 data format for 
+- [neuroHDF - HDF5 data format for
   neuroscience](https://neurohdf.readthedocs.io/en/latest/)
 - [NeuroTools - Collection of tools for "simulation setup, parameterization,
   data management, analysis, and visualization" for many neural simulators
@@ -209,7 +210,7 @@ Contributions are VERY welcome!
 - This only lists neuroscience-specific open data repositories. For general
   science data repositories that may contain neuroscience data like
   [re3data](https://www.re3data.org/search?query=neuroscience), [see this Open
-  Science Resources 
+  Science Resources
   page](https://github.com/asoplata/open-science-resources#open-data-repositories-and-services)
 - [3D Brain Atlas Reconstructor](http://www.3dbars.org/)
 - [Allen Brain Atlas Data Portal](http://brain-map.org/)
@@ -235,18 +236,18 @@ Contributions are VERY welcome!
   list, VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
 - [NDA - National Institute of Mental Health Data
   Archive](https://data-archive.nimh.nih.gov/)
-- [NeuroVault - Public repository of MRI and PET statistical maps, 
+- [NeuroVault - Public repository of MRI and PET statistical maps,
   parcellations, and atlases](https://neurovault.org/)
 - [NIF - Neuroscience Information Framework, massive search engine for
   neuroscience data, tools, etc.](http://www.neuinfo.org/)
 - [NITRC - NeuroImaging Tools and Resources
   Collaboratory](https://www.nitrc.org/)
-- [NMC - Neocortical Microcircuit Collaboration, part of Blue 
+- [NMC - Neocortical Microcircuit Collaboration, part of Blue
   Brain](https://bbp.epfl.ch/nmc-portal/welcome)
 - [NWB - Neurodata Without Borders - A standardized format for
   electrophysiological, and in the future other, neuroscience data. Some data
   sets available on the site in this format.](http://nwb.org/)
-- [OpenNeuro - Free and open platform for neuroimaging data (succeeds 
+- [OpenNeuro - Free and open platform for neuroimaging data (succeeds
   OpenfMRI)](https://openneuro.org/)
 - [Whole Brain Catalog - Virtual catalog of a mouse
   brain](https://library.tmc.edu/website/whole-brain-catalog/)
@@ -314,11 +315,11 @@ Contributions are VERY welcome!
   neuroscience](http://neuralensemble.org/)
 - [Neuroinformatics Research Group at Harvard](http://neuroinformatics.harvard.edu/)
 - [Neurostars - Neuroscience Q and A website](https://neurostars.org/)
-- [NIMH - National Institute of Mental 
+- [NIMH - National Institute of Mental
   Health](https://www.nimh.nih.gov/index.shtml)
-- [An Open Computational Neuroscience list I've made on 
+- [An Open Computational Neuroscience list I've made on
   Twitter](https://twitter.com/austinsoplata/lists/opencompneuroscience)
 - [Organization for Human Brain Mapping](https://www.humanbrainmapping.org)
-- [Reddit /r/Neuroscience 
+- [Reddit /r/Neuroscience
   resources](https://www.reddit.com/r/neuroscience/comments/2u87cl/rneuroscience_resource_compilaton/)
 - [SFN - Society for Neuroscience](https://www.sfn.org/)
