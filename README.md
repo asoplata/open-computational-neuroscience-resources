@@ -129,6 +129,7 @@ Contributions are VERY welcome!
 ##### Simulation
 
 - Note: some of these tools are interoperable to some degree.
+- [BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch](https://github.com/Hananel-Hazan/bindsnet)
 - [Brian2 - Powerful, modern neural simulator written in Pythonthat offers
   built-in compilation](http://brian2.readthedocs.io/en/stable/)
 - [CoreNeuron - Optimized, simplified NEURON implementation used by the Blue
