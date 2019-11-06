@@ -50,6 +50,7 @@ Contributions are VERY welcome!
 - [Jim Perlewitz' "Computational Neuroscience on the Web" - Probably the most
   comprehensive *curated* list of computational neuroscience modeling tools on
   the internet. HIGHLY recommended.](http://home.earthlink.net/~perlewitz/)
+    - Website may be offline now, but you can access an archived version [here at the Internet Archive](https://web.archive.org/web/20190301105153/http://home.earthlink.net/~perlewitz/)
 - [NCBI databases - National Center for Biotechnology Information database
   list, VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
 - [NIF - Neuroscience Infomation Framework - Search for EVERY kind of
