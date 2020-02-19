@@ -1,5 +1,5 @@
 
-# Open Computational Neuroscience Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Open Computational Neuroscience Resources
 
 Computational neuroscience means one of two things: 1. analysis of
 neuroscientific data, whether it be fMRI imaging data, electrode recordings
