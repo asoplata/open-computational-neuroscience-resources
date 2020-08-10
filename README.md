@@ -2,21 +2,22 @@
 # Open Computational Neuroscience Resources
 
 Computational neuroscience means one of two things: 1. analysis of
-neuroscientific data, whether it be fMRI imaging data, electrode recordings
-from a mouse running in a maze, statistical modeling of that data, or something
-else, and 2. simulation of neural systems, including modeling many compartments
-of a single neuron, or large networks of model neurons with simple individual
-behavior. These endeavors require expensive data from wet-lab experiments, but
-much of the work can be accomplished using everyday, consumer-grade laptop and
-desktop computers! Indeed, the biggest barrier to entry is not hardware, data,
-or expense, but rather time and passion to learn the tools needed for such
-computational science. Coupled with the great tools coming out of the modern
-Data Science movement, open data, open simulation models, and open analysis and
-simulation tools for computational neuroscience make it easier than ever to
-learn or even contribute to the study of the brain! **The resources below should
-be more than enough to provide anyone with the means to begin learning or
-working in computational neuroscience, at no cost other than time and a
-modern computer.**
+neuroscientific data, whether it be fMRI imaging data, electrode recordings from
+a mouse running in a maze, statistical modeling of that data, or something else,
+and 2. simulation of neural systems, including modeling many compartments of a
+single neuron, or large networks of model neurons with simple individual
+behavior. These endeavors initially require expensive data from wet-lab
+experiments to inform parameters, but most of the computational work can be
+accomplished using everyday, consumer-grade laptop and desktop computers!
+Indeed, the biggest barrier to entry is not hardware, data, or expense, but
+rather time and passion to learn the tools and underlying biology/mathematics
+needed for such computational science. Coupled with the great tools coming out
+of the modern Data Science movement, open data, open simulation models, and open
+analysis and simulation tools for computational neuroscience make it easier than
+ever to learn or even contribute to the study of the brain! **The resources
+below should be more than enough to provide anyone with the means to begin
+learning or working in computational neuroscience, at no cost other than time
+and a modern personal computer.**
 
 Note: This is intended as a list of resources to help with *neuroscientific*
 pursuits, as opposed to *artificial intelligence* pursuits. [More broadly, I've
@@ -29,13 +30,13 @@ Contributions are VERY welcome!
 
 - Contents:
     - [Meta-resources](#meta-resources)
-    - [Markup Languages for cross-simulator model
-      usage](#markup-languages-for-cross-simulator-model-usage)
+    - [Markup Languages for Model Specification](#markup-languages-for-model-specification)
     - [Open Code](#open-code)
     - [Open Courses](#open-courses)
     - [Open Data](#open-data)
     - [Open Textbooks](#open-textbook)
     - [Organizations and Communities](#organizations-and-communities)
+    - [Reproducibility](#reproducibility)
 
 -----------------------------------
 
@@ -53,6 +54,7 @@ Contributions are VERY welcome!
     - Website may be offline now, but you can access an archived version [here at the Internet Archive](https://web.archive.org/web/20190301105153/http://home.earthlink.net/~perlewitz/)
 - [NCBI databases - National Center for Biotechnology Information database
   list, VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
+- [neuroshare - Brief list of neuroscience data tools and vendors](http://neuroshare.sourceforge.net/links.shtml)
 - [NIF - Neuroscience Infomation Framework - Search for EVERY kind of
   neuroscience data, atlas, software, everything!](https://neuinfo.org/)
     - This is the most comprehensive tool for open neuroscience resources in
@@ -65,7 +67,7 @@ Contributions are VERY welcome!
 - [Wikipedia List of Neuroscience Databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
 - [An aggregation of neuroscience journal RSS feeds](http://sanjayankur31.github.io/planet-neuroscience/)
 
-### Markup Languages
+### Markup Languages for Model Specification
 
 - [CellML - A model specification language for general biological mathematical
   modeling](https://www.cellml.org/)
@@ -96,14 +98,14 @@ Contributions are VERY welcome!
   the Neo data format](http://neuralensemble.org/OpenElectrophy/)
 - [MNE - MEG + EEG analysis and visualization tool in
   Python](http://martinos.org/mne/stable/index.html)
-- [Neo - Python library for enabling interoperability of electrophysiological
-  data, including conversion from proprietary file
-  formats](http://neuralensemble.org/neo/)
 - [NeuronUnit - Data-driven model validation for
   neuroscience](https://github.com/scidash/neuronunit)
 - [SpectraVis - Network visualization tool for functional brain connectivity
   in-browser](https://github.com/NeurophysVis/SpectraVis)
-- [Spike Sorting Software - VERY good comparison of different spike sorting software capabilities](https://simonster.github.io/SpikeSortingSoftware/)
+- [Spike Sorting Software - VERY good comparison of different spike sorting
+  software capabilities](https://simonster.github.io/SpikeSortingSoftware/)
+- [SpikeInterface - Spike sorting analysis specifically made for compatibility
+  between different sorting algorithms, part of the Open Ephys project](https://open-ephys.org/spikeinterface)
 - [SpykeViewer - Analysis software for spikes of electrophysiological data,
   built on the Neo data format](http://neuralensemble.org/SpykeViewer/)
 - [supereeg - Sparse ECoG analysis](http://supereeg.readthedocs.io/en/latest/)
@@ -126,10 +128,13 @@ Contributions are VERY welcome!
   tool](http://www.ini.uzh.ch/~acardona/trakem2.html)
 - [TREES - MATLAB toolbox for analyzing neuron
   microscopy](http://www.treestoolbox.org/)
+- [V-NeuroStack - 3D time stacks for finding patterns in spontaneous activity of
+  neurons in mouse brain slices](https://www.evl.uic.edu/entry.php?id=2479)
 
 ##### Simulation
 
 - Note: some of these tools are interoperable to some degree.
+- [Arbor - 
 - [BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch](https://github.com/Hananel-Hazan/bindsnet)
 - [Brain Dynamics Toolbox - Open software for simulating dynamical systems in
   neuroscience using MATLAB](https://bdtoolbox.org/)
@@ -261,9 +266,18 @@ Contributions are VERY welcome!
 
 ##### Open Data Schema
 
+- [Neo - Python library for enabling interoperability of electrophysiological
+  data, including conversion from proprietary file
+  formats](http://neuralensemble.org/neo/)
 - [Neurodata Without Borders: Neurophysiology (NWB:N) data standard for
   neurophysiology, including intracellular, extracellular, optical physiology,
   tracking, and stimulus data](https://www.nwb.org/)
+    - [ndx-simulation-output Large-scale simulation data scheme extenstion to
+      NWB:N](https://github.com/catalystneuro/ndx-simulation-output)
+- [NSDF - Neuroscience Simulation Data Format, built on top of HDF5](https://github.com/nsdf/nsdf)
+- [SONATA format for large-scale, efficient model specification and output data
+  schema of neural simulations, co-developed by Allen Institute for Brain
+  Sciences and Blue Brain Project](https://github.com/AllenInstitute/sonata)
 
 ##### Open Model Repositories
 
@@ -334,3 +348,8 @@ Contributions are VERY welcome!
 - [Reddit /r/Neuroscience
   resources](https://www.reddit.com/r/neuroscience/comments/2u87cl/rneuroscience_resource_compilaton/)
 - [SFN - Society for Neuroscience](https://www.sfn.org/)
+
+### Reproducibility
+
+- [Tutorial on reproducible computational neuroscience research, from CNS 2012
+  by author of Sumatra](https://rrcns.readthedocs.io/en/cns2012/)
