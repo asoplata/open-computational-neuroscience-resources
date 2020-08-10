@@ -134,7 +134,7 @@ Contributions are VERY welcome!
 ##### Simulation
 
 - Note: some of these tools are interoperable to some degree.
-- [Arbor - 
+- [Arbor - High-performance library for computational neuroscience simulations](https://arbor.readthedocs.io/en/latest/)
 - [BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch](https://github.com/Hananel-Hazan/bindsnet)
 - [Brain Dynamics Toolbox - Open software for simulating dynamical systems in
   neuroscience using MATLAB](https://bdtoolbox.org/)
