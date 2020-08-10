@@ -65,15 +65,15 @@ Contributions are VERY welcome!
 - [Wikipedia List of Neuroscience Databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
 - [An aggregation of neuroscience journal RSS feeds](http://sanjayankur31.github.io/planet-neuroscience/)
 
-### Markup Languages for cross-simulator model usage
+### Markup Languages
 
-- [CellML - A model description language for general biological mathematical
+- [CellML - A model specification language for general biological mathematical
   modeling](https://www.cellml.org/)
-- [NeuroML - A model description language for computational
+- [NeuroML - A model specification language for computational
   neuroscience](https://www.neuroml.org/)
-    - Converts to different kinds of simulators:
+    - Converts to and can be run automatically by different kinds of simulators:
       https://www.neuroml.org/tool_support
-- [NineML - A model description language for
+- [NineML - A model specification language for
   neuroscience](http://incf.github.io/nineml-spec/)
 
 ### Open Code
@@ -131,6 +131,8 @@ Contributions are VERY welcome!
 
 - Note: some of these tools are interoperable to some degree.
 - [BindsNET - Simulation of spiking neural networks (SNNs) using PyTorch](https://github.com/Hananel-Hazan/bindsnet)
+- [Brain Dynamics Toolbox - Open software for simulating dynamical systems in
+  neuroscience using MATLAB](https://bdtoolbox.org/)
 - [Brian2 - Powerful, modern neural simulator written in Pythonthat offers
   built-in compilation](http://brian2.readthedocs.io/en/stable/)
 - [CoreNeuron - Optimized, simplified NEURON implementation used by the Blue
@@ -153,8 +155,9 @@ Contributions are VERY welcome!
 - [Nengo - Large-scale neural simulator](https://www.nengo.ai/)
 - [NEST - A popular, actively developed neural simulator that can simulate
   large neural systems](http://www.nest-simulator.org/)
-- [NEURON - Potentially the most popular computational neuroscience model
-  simulator](https://neuron.yale.edu/neuron/)
+- [neurolib - A Python simulation framework for easy whole-brain neural mass modeling](https://caglorithm.github.io/notebooks/neurolib-intro/)
+- [NEURON - The most popular computational neuroscience model
+  simulator, focusing on biophysical modelling](https://neuron.yale.edu/neuron/)
 - [NeuroRD - "A computationally efficient, stochastic reaction-diffusion
   simulator".](http://krasnow1.gmu.edu/CENlab/software.html)
 - [PyRhO - Virtual laboratory for optogenetic simulation. Integrates with
@@ -255,6 +258,12 @@ Contributions are VERY welcome!
   brain](https://library.tmc.edu/website/whole-brain-catalog/)
 - [WormBase - Database of nematode information](https://www.wormbase.org)
 - [ZFIN - Zebrafish Model Organism Database](http://zfin.org/)
+
+##### Open Data Schema
+
+- [Neurodata Without Borders: Neurophysiology (NWB:N) data standard for
+  neurophysiology, including intracellular, extracellular, optical physiology,
+  tracking, and stimulus data](https://www.nwb.org/)
 
 ##### Open Model Repositories
 
