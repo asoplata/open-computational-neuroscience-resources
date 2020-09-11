@@ -176,6 +176,7 @@ Contributions are VERY welcome!
   other simulators](http://neuralensemble.org/docs/PyNN/0.7/)
 - [Spike - "A high speed Spiking Neural Network Simulator designed for
   GPGPUs".](http://oftnai.github.io/Spike/)
+- [STEPS - Parallel stochastic reaction-diffusion and voltage simulator on realistic 3D geometries](http://steps.sourceforge.net)
 
 ##### Auxiliary Simulator Software
 
