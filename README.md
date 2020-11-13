@@ -71,6 +71,8 @@ Contributions are VERY welcome!
 
 - [CellML - A model specification language for general biological mathematical
   modeling](https://www.cellml.org/)
+- [NESTML - Domain-specific language for neuron models and code generation
+  toolchain](https://nestml.readthedocs.io/)
 - [NeuroML - A model specification language for computational
   neuroscience](https://www.neuroml.org/)
     - Converts to and can be run automatically by different kinds of simulators:
@@ -198,6 +200,8 @@ Contributions are VERY welcome!
   above.](https://pythonhosted.org/NeuroTools/)
 - [NSDF - Neuroscience Simulation Data Format, built on
   HDF5](https://github.com/nsdf/nsdf)
+- [ODE-toolbox - Automatic selection and generation of integration schemes
+  for systems of ordinary differential equations](https://ode-toolbox.readthedocs.io/)
 - [pypet - Python parameter exploration toolkit for managing parameter sweeps
   of simulations in neural simulators like Brian. Has Sumatra
   integration.](http://pypet.readthedocs.io/en/latest/)
