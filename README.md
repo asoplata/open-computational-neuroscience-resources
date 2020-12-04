@@ -220,6 +220,7 @@ Contributions are VERY welcome!
 - [Neuroscience course material from OpenCourseWare (OCW) at MIT Department of Brain and Cognitive Sciences - HUGE list!](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
 - [Simulation Neuroscience at edX](https://www.edx.org/course/simulation-neuroscience-epflx-simneurox)
 - [Interactive webpage illustrating spiking neural models](http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/)
+- [A series of notebooks that serves as an introduction to theoretical/computational neuroscience (for beginners)](https://dabane-ghassan.github.io/ModNeuro/)
 
 ### Open Data
 
