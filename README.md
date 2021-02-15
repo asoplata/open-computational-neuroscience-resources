@@ -79,6 +79,7 @@ Contributions are VERY welcome!
       https://www.neuroml.org/tool_support
 - [NineML - A model specification language for
   neuroscience](http://incf.github.io/nineml-spec/)
+- [SpineML - A declarative XML-based model description language for large scale neural network models](http://spineml.github.io)
 
 ### Open Code
 
@@ -178,6 +179,7 @@ Contributions are VERY welcome!
   other simulators](http://neuralensemble.org/docs/PyNN/0.7/)
 - [Spike - "A high speed Spiking Neural Network Simulator designed for
   GPGPUs".](http://oftnai.github.io/Spike/)
+- [SpineCreator - A cross platform graphical editor for SpineML models with support for running model simulations](http://spineml.github.io/spinecreator/)
 - [STEPS - Parallel stochastic reaction-diffusion and voltage simulator on realistic 3D geometries](http://steps.sourceforge.net)
 - [sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine](https://github.com/SpiNNakerManchester/sPyNNaker)
 
@@ -185,6 +187,7 @@ Contributions are VERY welcome!
 
 - [BluePyOpt - Blue Brain Python Optimisation Library, for optimizing
   parameters in neural models](https://github.com/BlueBrain/BluePyOpt)
+- [BRAHMS - A modular execution framework for executing integrated systems built from component software processes](https://github.com/BRAHMS-SystemML/brahms)
 - [GIMBL-Vis - Multi-dimensional visualization toolbox; integrates with
   DynaSim](https://github.com/erik-roberts/GIMBL-Vis)
 - [Lancet - Software for managing large volumes of neural
