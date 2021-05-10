@@ -224,6 +224,7 @@ Contributions are VERY welcome!
 - [Simulation Neuroscience at edX](https://www.edx.org/course/simulation-neuroscience-epflx-simneurox)
 - [Interactive webpage illustrating spiking neural models](http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/)
 - [A series of notebooks that serves as an introduction to theoretical/computational neuroscience (for beginners)](https://dabane-ghassan.github.io/ModNeuro/)
+- [Introduction To Modern Brain-Computer Interface Design](https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
 
 ### Open Data
 
