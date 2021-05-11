@@ -178,6 +178,7 @@ Contributions are VERY welcome!
   (The successor to [CSIM](http://www.lsm.tugraz.at/csim/))
 - [PyNN - Language for building neuronal network models meant for export to
   other simulators](http://neuralensemble.org/docs/PyNN/0.7/)
+- [PyPNS - Python Peripheral Nerve Simulator](https://github.com/chlubba/PyPNS)
 - [Spike - "A high speed Spiking Neural Network Simulator designed for
   GPGPUs".](http://oftnai.github.io/Spike/)
 - [SpineCreator - A cross platform graphical editor for SpineML models with support for running model simulations](http://spineml.github.io/spinecreator/)
