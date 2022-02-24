@@ -169,6 +169,7 @@ Contributions are VERY welcome!
   simulator, focusing on biophysical modelling](https://neuron.yale.edu/neuron/)
 - [NeuroRD - "A computationally efficient, stochastic reaction-diffusion
   simulator".](http://krasnow1.gmu.edu/CENlab/software.html)
+- [Norse - Deep Learning with Spiking Neural Network](https://github.com/norse/norse)
 - [PyRhO - Virtual laboratory for optogenetic simulation. Integrates with
   NEURON and Brian2 models.](https://github.com/ProjectPyRhO/PyRhO)
     - [Prometheus - Related docker image for use with PyRhO via "Modelling as a
