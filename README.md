@@ -66,7 +66,7 @@ Contributions are VERY welcome!
   page](https://github.com/asoplata/open-science-resources#open-diy-hardware)
 - [Wikipedia List of Neuroscience Databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
 - [An aggregation of neuroscience journal RSS feeds](http://sanjayankur31.github.io/planet-neuroscience/)
-- [SORTED](https://github.com/PTDZ/SORTED) - a list of interesting science ideas and links (cognitive/neuro & data science)
+- [SORTED - a list of interesting science ideas and links (cognitive/neuro & data science)](https://github.com/PTDZ/SORTED)
 
 ### Markup Languages for Model Specification
 
@@ -134,7 +134,7 @@ Contributions are VERY welcome!
   microscopy](http://www.treestoolbox.org/)
 - [V-NeuroStack - 3D time stacks for finding patterns in spontaneous activity of
   neurons in mouse brain slices](https://www.evl.uic.edu/entry.php?id=2479)
-- [NiMARE](https://nimare.readthedocs.io/en/latest/) - NiMARE is a Python package for neuroimaging meta-analyses
+- [NiMARE - NiMARE is a Python package for neuroimaging meta-analyses](https://nimare.readthedocs.io/en/latest/)
 
 ##### Simulation
 
