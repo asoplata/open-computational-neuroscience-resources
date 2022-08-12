@@ -64,6 +64,7 @@ Contributions are VERY welcome!
   simulation!](http://www.nsgportal.org/index.html)
 - Open Hardware - [see this Open Science Resources
   page](https://github.com/asoplata/open-science-resources#open-diy-hardware)
+- [SORTED - a list of interesting science ideas and links (cognitive/neuro & data science)](https://github.com/PTDZ/SORTED)
 - [Wikipedia List of Neuroscience Databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
 - [An aggregation of neuroscience journal RSS feeds](http://sanjayankur31.github.io/planet-neuroscience/)
 
@@ -127,6 +128,7 @@ Contributions are VERY welcome!
 - [NiBabel - Python library for enabling interoperability of neuroimaging data,
   including conversion from and between many file
   formats](http://neuralensemble.org/neo/)
+- [NiMARE - NiMARE is a Python package for neuroimaging meta-analyses](https://nimare.readthedocs.io/en/latest/)
 - [TrakEM2 - Morphological data mining and analysis
   tool](http://www.ini.uzh.ch/~acardona/trakem2.html)
 - [TREES - MATLAB toolbox for analyzing neuron
