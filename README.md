@@ -68,9 +68,9 @@ Contributions are VERY welcome!
   simulation!](http://www.nsgportal.org/index.html)
 - Open Hardware - [see this Open Science Resources
   page](https://github.com/asoplata/open-science-resources#open-diy-hardware)
+- [Planet Neuroscience: An aggregation of neuroscience journal RSS feeds](https://neuroblog.fedoraproject.org/planet-neuroscience/)
 - [SORTED - a list of interesting science ideas and links (cognitive/neuro & data science)](https://github.com/PTDZ/SORTED)
 - [Wikipedia List of Neuroscience Databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
-- [An aggregation of neuroscience journal RSS feeds](http://sanjayankur31.github.io/planet-neuroscience/)
 
 ### Markup Languages for Model Specification
 
