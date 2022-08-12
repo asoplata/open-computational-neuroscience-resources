@@ -1,26 +1,30 @@
 
 # Open Computational Neuroscience Resources
 
-Computational neuroscience means one of two things: 1. analysis of
-neuroscientific data, whether it be fMRI imaging data, electrode recordings from
-a mouse running in a maze, statistical modeling of that data, or something else,
-and 2. simulation of neural systems, including modeling many compartments of a
-single neuron, or large networks of model neurons with simple individual
-behavior. These endeavors initially require expensive data from wet-lab
+Computational neuroscience means one of two things: 
+
+1. Analysis of
+neuroscientific data. Examples: analysis of MRI/fMRI imaging data, invasive intracranial electrode recordings from
+a mouse running in a maze or performing a task, calcium-sensitive fluorescent dye imaging data, human EEG data, computer-vision analysis of post-mortem histology stains, statistical modeling of such data, and much more!
+
+2. Simulation of neural systems. Examples: simulating (aka "modeling") many compartments of a
+single neuron, large networks of model neurons with simple individual
+behavior, dynamical systems analysis of simplified neurons, neural "mass" models where only *groups* of neurons (not individual cells) are modeled, and much more!
+
+These endeavors initially require expensive data from wet-lab
 experiments to inform parameters, but most of the computational work can be
 accomplished using everyday, consumer-grade laptop and desktop computers!
 Indeed, the biggest barrier to entry is not hardware, data, or expense, but
 rather time and passion to learn the tools and underlying biology/mathematics
 needed for such computational science. Coupled with the great tools coming out
-of the modern Data Science movement, open data, open simulation models, and open
-analysis and simulation tools for computational neuroscience make it easier than
+of the modern Data Science movement, new Open Science and Open Data resources make it easier than
 ever to learn or even contribute to the study of the brain! **The resources
 below should be more than enough to provide anyone with the means to begin
 learning or working in computational neuroscience, at no cost other than time
 and a modern personal computer.**
 
 Note: This is intended as a list of resources to help with *neuroscientific*
-pursuits, as opposed to *artificial intelligence* pursuits. [More broadly, I've
+pursuits (trying to understand the brain as it exists), as opposed to *artificial intelligence* or *machine learning* pursuits (using brain-inspired mathematics and properties to engineer systems meant to accomplish a particular task). [More broadly, I've
 made a similar repo-list of general open science resources
 here](https://github.com/asoplata/open-science-resources).
 
@@ -34,7 +38,7 @@ Contributions are VERY welcome!
     - [Open Code](#open-code)
     - [Open Courses](#open-courses)
     - [Open Data](#open-data)
-    - [Open Textbooks](#open-textbook)
+    - [Open Textbooks](#open-textbooks)
     - [Organizations and Communities](#organizations-and-communities)
     - [Reproducibility](#reproducibility)
 
