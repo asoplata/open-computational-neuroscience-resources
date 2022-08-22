@@ -365,6 +365,7 @@ Contributions are VERY welcome!
   Facility](https://www.incf.org/about)
 - [NeuralEnsemble, focused on software development in
   neuroscience](http://neuralensemble.org/)
+- [NeuroFedora, Fedora community special interest group](https://neuro.fedoraproject.org)
 - [Neuroinformatics Research Group at Harvard](http://neuroinformatics.harvard.edu/)
 - [Neurostars - Neuroscience Q and A website](https://neurostars.org/)
 - [NIMH - National Institute of Mental
