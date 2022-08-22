@@ -78,10 +78,10 @@ Contributions are VERY welcome!
   modeling](https://www.cellml.org/)
 - [NESTML - Domain-specific language for neuron models and code generation
   toolchain](https://nestml.readthedocs.io/)
-- [NeuroML - A model specification language for computational
+- [NeuroML - A model description language for computational
   neuroscience](https://www.neuroml.org/)
     - Converts to and can be run automatically by different kinds of simulators:
-      https://www.neuroml.org/tool_support
+      https://docs.neuroml.org/Userdocs/Software/SupportingTools.html
 - [NineML - A model specification language for
   neuroscience](http://incf.github.io/nineml-spec/)
 - [SpineML - A declarative XML-based model description language for large scale neural network models](http://spineml.github.io)
@@ -89,6 +89,11 @@ Contributions are VERY welcome!
 ### Open Code
 
 - [Funding research software development](https://www.software.ac.uk/how-fund-research-software-development)
+
+##### Operating systems
+
+- [NeuroDebian](http://neuro.debian.net/)
+- [Comp-Neuro Fedora](https://docs.fedoraproject.org/en-US/neurofedora/install-media/#_fedora_linux_os_for_computational_neuroscience)
 
 ##### Non-imaging Analysis
 
@@ -332,9 +337,11 @@ Contributions are VERY welcome!
     - [ORDB - Olfactory Receptor DataBase](https://senselab.med.yale.edu/OrDB/)
 - [NeuroElectro - Repository of data-mined and human-curated neuron celltype
   electrophysiological data](https://neuroelectro.org/)
+- [NeuroML-db - Curated database of NeuroML models](https://neuroml-db.org/)
 - [NeuroMorpho - Curated repository of digitally reconstructed neuron
   geometries](http://neuromorpho.org/)
 - [OSB - Open Source Brain](http://www.opensourcebrain.org/)
+- [OSBv2 - Open Source Brain version 2.0](https://v2.opensourcebrain.org/)
 - [OpenWorm - Popular platform for simulation and analysis of nematode
   neuroscience models!](http://openworm.org/)
 - ["Integrated Models" RRID on SciCrunch - Compilation of model
@@ -358,6 +365,7 @@ Contributions are VERY welcome!
   Facility](https://www.incf.org/about)
 - [NeuralEnsemble, focused on software development in
   neuroscience](http://neuralensemble.org/)
+- [NeuroFedora, Fedora community special interest group](https://neuro.fedoraproject.org)
 - [Neuroinformatics Research Group at Harvard](http://neuroinformatics.harvard.edu/)
 - [Neurostars - Neuroscience Q and A website](https://neurostars.org/)
 - [NIMH - National Institute of Mental
