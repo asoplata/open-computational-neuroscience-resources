@@ -341,6 +341,7 @@ Contributions are VERY welcome!
 - [NeuroMorpho - Curated repository of digitally reconstructed neuron
   geometries](http://neuromorpho.org/)
 - [OSB - Open Source Brain](http://www.opensourcebrain.org/)
+- [OSBv2 - Open Source Brain version 2.0](https://v2.opensourcebrain.org/)
 - [OpenWorm - Popular platform for simulation and analysis of nematode
   neuroscience models!](http://openworm.org/)
 - ["Integrated Models" RRID on SciCrunch - Compilation of model
