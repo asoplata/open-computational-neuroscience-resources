@@ -78,10 +78,10 @@ Contributions are VERY welcome!
   modeling](https://www.cellml.org/)
 - [NESTML - Domain-specific language for neuron models and code generation
   toolchain](https://nestml.readthedocs.io/)
-- [NeuroML - A model specification language for computational
+- [NeuroML - A model description language for computational
   neuroscience](https://www.neuroml.org/)
     - Converts to and can be run automatically by different kinds of simulators:
-      https://www.neuroml.org/tool_support
+      https://docs.neuroml.org/Userdocs/Software/SupportingTools.html
 - [NineML - A model specification language for
   neuroscience](http://incf.github.io/nineml-spec/)
 - [SpineML - A declarative XML-based model description language for large scale neural network models](http://spineml.github.io)
