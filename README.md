@@ -332,6 +332,7 @@ Contributions are VERY welcome!
     - [ORDB - Olfactory Receptor DataBase](https://senselab.med.yale.edu/OrDB/)
 - [NeuroElectro - Repository of data-mined and human-curated neuron celltype
   electrophysiological data](https://neuroelectro.org/)
+- [NeuroML-db - Curated database of NeuroML models](https://neuroml-db.org/)
 - [NeuroMorpho - Curated repository of digitally reconstructed neuron
   geometries](http://neuromorpho.org/)
 - [OSB - Open Source Brain](http://www.opensourcebrain.org/)
