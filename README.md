@@ -311,30 +311,31 @@ Contributions are VERY welcome!
   simulation](https://senselab.med.yale.edu/modeldb/), built by
   [Senselab](https://senselab.med.yale.edu/)
 - [Senselab](https://senselab.med.yale.edu/) hosts several other databases, but
-  ModelDB is the most popular:
+  ModelDB (above) is the most popular:
+    - [3DModelDB  - A collection of 3D printable versions of published neuron
+      morphologies, both traced and
+      artificial.](https://senselab.med.yale.edu/3DModelDB/)
     - [CellPropDB - Cellular Properties Database provides a simple repository
       for data regarding membrane channels, receptor and neurotransmitters that
       are expressed in specific types of
       cells.](https://senselab.med.yale.edu/CellPropDB/)
-    - [NeuronDB - Provides a dynamically searchable database of three types of
-      neuronal properties: voltage gated conductances, neurotransmitter
-      receptors, and neurotransmitter
-      substances.](https://senselab.med.yale.edu/NeuronDB/)
     - [MicrocircuitDB - Provides an accessible location for storing and
       efficiently retrieving realistic computational models of brain
       microcircuits and
       networks.](https://senselab.med.yale.edu/MicroCircuitDB/)
-    - [3DModelDB  - A collection of 3D printable versions of published neuron
-      morphologies, both traced and
-      artificial.](https://senselab.med.yale.edu/3DModelDB/)
+    - [NeuronDB - Provides a dynamically searchable database of three types of
+      neuronal properties: voltage gated conductances, neurotransmitter
+      receptors, and neurotransmitter
+      substances.](https://senselab.med.yale.edu/NeuronDB/)
+    - [OdorDB - Odor Molecules DataBase](https://senselab.med.yale.edu/OdorDB/)
+    - [OdorMapDB - Olfactory Bulb Odor Map
+      DataBase](https://senselab.med.yale.edu/OdorMapDB/)
+    - [ORDB - Olfactory Receptor DataBase](https://senselab.med.yale.edu/OrDB/)
     - [ORModelDB - A resource that is a repository of the results of the
       efforts of the community is computationally elucidating the structure of
       the olfactory receptor with a view to establishing a mechanistic basis
       for OR-odorant binding.](https://senselab.med.yale.edu/OrModelDB/)
-    - [OdorMapDB - Olfactory Bulb Odor Map
-      DataBase](https://senselab.med.yale.edu/OdorMapDB/)
-    - [OdorDB - Odor Molecules DataBase](https://senselab.med.yale.edu/OdorDB/)
-    - [ORDB - Olfactory Receptor DataBase](https://senselab.med.yale.edu/OrDB/)
+
 - [NeuroElectro - Repository of data-mined and human-curated neuron celltype
   electrophysiological data](https://neuroelectro.org/)
 - [NeuroML-db - Curated database of NeuroML models](https://neuroml-db.org/)
