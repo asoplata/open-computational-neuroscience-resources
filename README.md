@@ -36,8 +36,15 @@ Contributions are VERY welcome!
     - [Meta-resources](#meta-resources)
     - [Markup Languages for Model Specification](#markup-languages-for-model-specification)
     - [Open Code](#open-code)
+        - [Analysis Software For Imaging](#analysis-software-for-imaging)
+        - [Analysis Software For Everything Except Imaging](#analysis-software-for-everything-except-imaging)
+        - [Operating Systems](#operating-systems)
+        - [Simulation Software](#simulation-software)
+        - [Simulation Data Format and Management Software](#simulation-data-format-and-management-software)
     - [Open Courses](#open-courses)
     - [Open Data](#open-data)
+        - [Open Data Schema](#open-data-schema)
+        - [Open Model Repositories](#open-model-repositories)
     - [Open Textbooks](#open-textbooks)
     - [Organizations and Communities](#organizations-and-communities)
     - [Reproducibility](#reproducibility)
@@ -72,6 +79,8 @@ Contributions are VERY welcome!
 - [SORTED - a list of interesting science ideas and links (cognitive/neuro & data science)](https://github.com/PTDZ/SORTED)
 - [Wikipedia List of Neuroscience Databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
 
+-----------------------------------
+
 ### Markup Languages for Model Specification
 
 - [CellML - A model specification language for general biological mathematical
@@ -86,16 +95,33 @@ Contributions are VERY welcome!
   neuroscience](http://incf.github.io/nineml-spec/)
 - [SpineML - A declarative XML-based model description language for large scale neural network models](http://spineml.github.io)
 
+-----------------------------------
+
 ### Open Code
 
 - [Funding research software development](https://www.software.ac.uk/how-fund-research-software-development)
 
-##### Operating systems
+##### Analysis Software For Imaging
 
-- [NeuroDebian](http://neuro.debian.net/)
-- [Comp-Neuro Fedora](https://docs.fedoraproject.org/en-US/neurofedora/install-media/#_fedora_linux_os_for_computational_neuroscience)
+- [Allen SDK - Allen (Institute) Software Development Kit for Allen Brain
+  Atlas](http://alleninstitute.github.io/AllenSDK/)
+- [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn)
+- [CATMAID - The Collaborative Annotation Toolkit for Massive Amounts of Image
+  Data](http://catmaid.readthedocs.io/en/stable/)
+- [FreeSurfer - Popular open-source MRI processing and analysis
+  software](https://surfer.nmr.mgh.harvard.edu/)
+- [NiBabel - Python library for enabling interoperability of neuroimaging data,
+  including conversion from and between many file
+  formats](http://neuralensemble.org/neo/)
+- [NiMARE - NiMARE is a Python package for neuroimaging meta-analyses](https://nimare.readthedocs.io/en/latest/)
+- [TrakEM2 - Morphological data mining and analysis
+  tool](http://www.ini.uzh.ch/~acardona/trakem2.html)
+- [TREES - MATLAB toolbox for analyzing neuron
+  microscopy](http://www.treestoolbox.org/)
+- [V-NeuroStack - 3D time stacks for finding patterns in spontaneous activity of
+  neurons in mouse brain slices](https://www.evl.uic.edu/entry.php?id=2479)
 
-##### Non-imaging Analysis
+##### Analysis Software For Everything Except Imaging
 
 - [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://sites.google.com/site/bctnet/)
 - [Chronux - MATLAB toolbox for EEG analysis, including some tools for MEG, fMRI, and image data](http://chronux.org/)
@@ -125,27 +151,12 @@ Contributions are VERY welcome!
 - [Vaa3D - 3D Visualization-Assisted
   Analysis](http://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/vaa3d/)
 
-##### Imaging Analysis
+##### Operating Systems
 
-- [Allen SDK - Allen (Institute) Software Development Kit for Allen Brain
-  Atlas](http://alleninstitute.github.io/AllenSDK/)
-- [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn)
-- [CATMAID - The Collaborative Annotation Toolkit for Massive Amounts of Image
-  Data](http://catmaid.readthedocs.io/en/stable/)
-- [FreeSurfer - Popular open-source MRI processing and analysis
-  software](https://surfer.nmr.mgh.harvard.edu/)
-- [NiBabel - Python library for enabling interoperability of neuroimaging data,
-  including conversion from and between many file
-  formats](http://neuralensemble.org/neo/)
-- [NiMARE - NiMARE is a Python package for neuroimaging meta-analyses](https://nimare.readthedocs.io/en/latest/)
-- [TrakEM2 - Morphological data mining and analysis
-  tool](http://www.ini.uzh.ch/~acardona/trakem2.html)
-- [TREES - MATLAB toolbox for analyzing neuron
-  microscopy](http://www.treestoolbox.org/)
-- [V-NeuroStack - 3D time stacks for finding patterns in spontaneous activity of
-  neurons in mouse brain slices](https://www.evl.uic.edu/entry.php?id=2479)
+- [NeuroDebian](http://neuro.debian.net/)
+- [Comp-Neuro Fedora](https://docs.fedoraproject.org/en-US/neurofedora/install-media/#_fedora_linux_os_for_computational_neuroscience)
 
-##### Simulation
+##### Simulation Software
 
 - Note: some of these tools are interoperable to some degree.
 - [Arbor - High-performance library for computational neuroscience simulations](https://arbor.readthedocs.io/en/latest/)
@@ -196,7 +207,7 @@ Contributions are VERY welcome!
 - [STEPS - Parallel stochastic reaction-diffusion and voltage simulator on realistic 3D geometries](http://steps.sourceforge.net)
 - [sPyNNaker - A software package for running PyNN simulations on the SpiNNaker million core neuromorphic machine](https://github.com/SpiNNakerManchester/sPyNNaker)
 
-##### Auxiliary Simulator Software
+##### Simulation Data Format and Management Software
 
 - [BluePyOpt - Blue Brain Python Optimisation Library, for optimizing
   parameters in neural models](https://github.com/BlueBrain/BluePyOpt)
@@ -225,6 +236,8 @@ Contributions are VERY welcome!
 - [Sumatra - An "automated electronic lab notebook" for managing simulation and
   analysis projects](http://neuralensemble.org/sumatra/)
 
+-----------------------------------
+
 ### Open Courses
 
 - [Computational Neuroscience at
@@ -238,6 +251,8 @@ Contributions are VERY welcome!
 - [Interactive webpage illustrating spiking neural models](http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/)
 - [A series of notebooks that serves as an introduction to theoretical/computational neuroscience (for beginners)](https://dabane-ghassan.github.io/ModNeuro/)
 - [Introduction To Modern Brain-Computer Interface Design](https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
+
+-----------------------------------
 
 ### Open Data
 
@@ -348,6 +363,8 @@ Contributions are VERY welcome!
 - ["Integrated Models" RRID on SciCrunch - Compilation of model
   sources](https://scicrunch.org/scicrunch/Resources/record/nlx_144509-1/SCR_001481/resolver)
 
+-----------------------------------
+
 ### Open Textbooks
 
 - [Computational Cognitive
@@ -356,6 +373,8 @@ Contributions are VERY welcome!
   Scholarpedia](http://www.scholarpedia.org/article/Encyclopedia_of_computational_neuroscience)
 - [Neuronal Dynamics: From single neurons to networks and models of
   cognition](http://neuronaldynamics.epfl.ch/)
+
+-----------------------------------
 
 ### Organizations and Communities
 
@@ -377,6 +396,8 @@ Contributions are VERY welcome!
 - [Reddit /r/Neuroscience
   resources](https://www.reddit.com/r/neuroscience/comments/2u87cl/rneuroscience_resource_compilaton/)
 - [SFN - Society for Neuroscience](https://www.sfn.org/)
+
+-----------------------------------
 
 ### Reproducibility
 
