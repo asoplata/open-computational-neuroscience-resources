@@ -90,6 +90,11 @@ Contributions are VERY welcome!
 
 - [Funding research software development](https://www.software.ac.uk/how-fund-research-software-development)
 
+##### Operating systems
+
+- [NeuroDebian](http://neuro.debian.net/)
+- [Comp-Neuro Fedora](https://docs.fedoraproject.org/en-US/neurofedora/install-media/#_fedora_linux_os_for_computational_neuroscience)
+
 ##### Non-imaging Analysis
 
 - [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://sites.google.com/site/bctnet/)
