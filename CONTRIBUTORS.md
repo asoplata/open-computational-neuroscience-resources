@@ -6,8 +6,8 @@ guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
 # GitHub profiles who have contributed to this repo:
 
-- [asoplata](https://github.com/asoplata)
 - [4iar](https://github.com/4iar)
+- [asoplata](https://github.com/asoplata)
 - [clinssen](https://github.com/clinssen)
 - [dabane-ghassan](https://github.com/dabane-ghassan)
 - [dbux](https://github.com/dbux)
@@ -16,6 +16,7 @@ guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 - [iahepburn](https://github.com/iahepburn)
 - [j6k4m8](https://github.com/j6k4m8)
 - [jasmainak](https://github.com/jasmainak)
+- [mstimberg](https://github.com/mstimberg)
 - [PTDZ](https://github.com/PTDZ)
 - [SaeedPourjafar](https://github.com/SaeedPourjafar)
 - [sanjayankur31](https://github.com/sanjayankur31)
