@@ -41,11 +41,10 @@ Contributions are VERY welcome!
         - [Operating Systems](#operating-systems)
         - [Simulation Software](#simulation-software)
         - [Simulation Data Format and Management Software](#simulation-data-format-and-management-software)
-    - [Open Courses](#open-courses)
+    - [Open Courses and Educational Resources](#open-courses-and-educational-resources)
     - [Open Data](#open-data)
         - [Open Data Schema](#open-data-schema)
         - [Open Model Repositories](#open-model-repositories)
-    - [Open Textbooks](#open-textbooks)
     - [Organizations and Communities](#organizations-and-communities)
     - [Reproducibility](#reproducibility)
 
@@ -237,19 +236,24 @@ Contributions are VERY welcome!
 
 -----------------------------------
 
-### Open Courses
+### Open Courses and Educational Resources
 
-- [Computational Neuroscience at
+- [Course: Computational Neuroscience at
   Coursera](https://www.coursera.org/learn/computational-neuroscience)
-- [Computational Neuroscience: Neuronal Dynamics of Cognition at edX](https://www.edx.org/course/computational-neuroscience-neuronal-dynamics-of-cognition)
-- [Neuronal Dynamics at
+- [Course: Introduction To Modern Brain-Computer Interface Design](https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
+- [Course: Computational Neuroscience: Neuronal Dynamics of Cognition at edX](https://www.edx.org/course/computational-neuroscience-neuronal-dynamics-of-cognition)
+- [Course/Curriculum: Mathematical Tools for Neuroscientists](https://ebatty.github.io/MathToolsforNeuroscience/intro.html)
+- [Course: Neuronal Dynamics at
   edX](https://www.edx.org/course/neuronal-dynamics-epflx-bio465-1x)
-    - [The open book for this course is available here](http://neuronaldynamics.epfl.ch/online/index.html)
-- [Neuroscience course material from OpenCourseWare (OCW) at MIT Department of Brain and Cognitive Sciences - HUGE list!](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
-- [Simulation Neuroscience at edX](https://www.edx.org/course/simulation-neuroscience-epflx-simneurox)
-- [Interactive webpage illustrating spiking neural models](http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/)
-- [A series of notebooks that serves as an introduction to theoretical/computational neuroscience (for beginners)](https://dabane-ghassan.github.io/ModNeuro/)
-- [Introduction To Modern Brain-Computer Interface Design](https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
+    - [Textbook: The open book for this course is available here](http://neuronaldynamics.epfl.ch/online/index.html)
+- [Courses: Neuroscience course material from OpenCourseWare (OCW) at MIT Department of Brain and Cognitive Sciences - HUGE list!](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
+- [Course: Simulation Neuroscience at edX](https://www.edx.org/course/simulation-neuroscience-epflx-simneurox)
+- [Encyclopedia of Computational Neuroscience at
+  Scholarpedia](http://www.scholarpedia.org/article/Encyclopedia_of_computational_neuroscience)
+- [Notebook: Python notebooks from courseware on theoretical/computational neuroscience (for beginners)](https://dabane-ghassan.github.io/ModNeuro/)
+- [Textbook: Computational Cognitive
+  Neuroscience (maybe 404'd as of 2022-11-21?)](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main)
+- [Webpage: Biological Neural Networks: Part 1, Spiking Neurons - VERY cool webpage with interactive spiking neural models!](http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/)
 
 -----------------------------------
 
@@ -366,12 +370,6 @@ Contributions are VERY welcome!
 
 ### Open Textbooks
 
-- [Computational Cognitive
-  Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main)
-- [Encyclopedia of Computational Neuroscience at
-  Scholarpedia](http://www.scholarpedia.org/article/Encyclopedia_of_computational_neuroscience)
-- [Neuronal Dynamics: From single neurons to networks and models of
-  cognition](http://neuronaldynamics.epfl.ch/)
 
 -----------------------------------
 
