@@ -243,6 +243,7 @@ Contributions are VERY welcome!
 - [Course: Introduction To Modern Brain-Computer Interface Design](https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design)
 - [Course: Computational Neuroscience: Neuronal Dynamics of Cognition at edX](https://www.edx.org/course/computational-neuroscience-neuronal-dynamics-of-cognition)
 - [Course/Curriculum: Mathematical Tools for Neuroscientists](https://ebatty.github.io/MathToolsforNeuroscience/intro.html)
+- [Courses: Neuromatch Academy hands-on courses in either Computational Neuroscience or Deep Learning](https://academy.neuromatch.io/courses)
 - [Course: Neuronal Dynamics at
   edX](https://www.edx.org/course/neuronal-dynamics-epflx-bio465-1x)
     - [Textbook: The open book for this course is available here](http://neuronaldynamics.epfl.ch/online/index.html)
@@ -365,11 +366,6 @@ Contributions are VERY welcome!
   neuroscience models!](http://openworm.org/)
 - ["Integrated Models" RRID on SciCrunch - Compilation of model
   sources](https://scicrunch.org/scicrunch/Resources/record/nlx_144509-1/SCR_001481/resolver)
-
------------------------------------
-
-### Open Textbooks
-
 
 -----------------------------------
 
