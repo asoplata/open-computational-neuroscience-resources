@@ -307,6 +307,7 @@ Contributions are VERY welcome!
   brain](https://library.tmc.edu/website/whole-brain-catalog/)
 - [WormBase - Database of nematode information](https://www.wormbase.org)
 - [ZFIN - Zebrafish Model Organism Database](http://zfin.org/)
+- [proofread static snapshots of the FlyWire full-brain connectome](https://codex.flywire.ai/)
 
 ##### Open Data Schema
 
