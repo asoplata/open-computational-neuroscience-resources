@@ -53,7 +53,7 @@ Contributions are VERY welcome!
 ### Meta-resources
 
 - [Allen Institute for Brain
-  Science](http://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/)
+  Science](https://alleninstitute.org/open-science-tools/)
 - [COMBINE - Computational modeling in biology network](http://co.mbine.org/standards)
 - [Comparison of Neural Network
   Simulators](https://grey.colorado.edu/emergent/index.php/Comparison_of_Neural_Network_Simulators)
@@ -137,6 +137,7 @@ Contributions are VERY welcome!
   Python](http://martinos.org/mne/stable/index.html)
 - [NeuronUnit - Data-driven model validation for
   neuroscience](https://github.com/scidash/neuronunit)
+- [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple)
 - [SpectraVis - Network visualization tool for functional brain connectivity
   in-browser](https://github.com/NeurophysVis/SpectraVis)
 - [Spike Sorting Software - VERY good comparison of different spike sorting
