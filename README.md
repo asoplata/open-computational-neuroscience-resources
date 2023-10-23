@@ -277,6 +277,7 @@ Contributions are VERY welcome!
   repository](http://www.mcgill.ca/c-bigneuro/)
 - [Channelpedia - Wiki of neuron ion channels, hosted by the Blue Brain
   Project](http://channelpedia.epfl.ch/)
+- [Codex: FlyWire - Proofread static snapshots of the FlyWire full-brain connectome](https://codex.flywire.ai/)
 - [CRCNS - Collaborative Research in Computational
   Neuroscience](http://crcns.org/data-sets)
 - [GIN - Modern Research Data Management for Neuroscience](https://web.gin.g-node.org/)
@@ -307,7 +308,6 @@ Contributions are VERY welcome!
   brain](https://library.tmc.edu/website/whole-brain-catalog/)
 - [WormBase - Database of nematode information](https://www.wormbase.org)
 - [ZFIN - Zebrafish Model Organism Database](http://zfin.org/)
-- [proofread static snapshots of the FlyWire full-brain connectome](https://codex.flywire.ai/)
 
 ##### Open Data Schema
 
