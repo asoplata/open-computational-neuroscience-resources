@@ -177,7 +177,7 @@ Contributions are VERY welcome!
       components](http://neurospaces.sourceforge.net/)
 - [LFPy - Local Field Potential simulator meant for use with NEURON
   models](https://lfpy.readthedocs.io/en/latest/)
-- [HNN - Human Neocortical Neurosolver - Simulation of MEG/EEG source waveforms using NEURON](hnn.brown.edu/)
+- [HNN - Human Neocortical Neurosolver - Simulation of MEG/EEG source waveforms using NEURON](https://hnn.brown.edu/)
   - [HNN (GUI version)](https://jonescompneurolab.github.io/hnn/)
   - [HNN-core (command line version)](https://jonescompneurolab.github.io/hnn-core/)
 - [MOOSE - Multiscale Object-Oriented Simulate
