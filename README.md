@@ -361,24 +361,20 @@ Contributions are VERY welcome!
       the olfactory receptor with a view to establishing a mechanistic basis
       for OR-odorant binding.](https://senselab.med.yale.edu/OrModelDB/)
 
-- [NeuroElectro - Repository of data-mined and human-curated neuron celltype
-  electrophysiological data](https://neuroelectro.org/)
+- [NeuroElectro - Repository of data-mined and human-curated neuron celltype electrophysiological data](https://neuroelectro.org/)
 - [NeuroML-db - Curated database of NeuroML models](https://neuroml-db.org/)
-- [NeuroMorpho - Curated repository of digitally reconstructed neuron
-  geometries](http://neuromorpho.org/)
+- [NeuroMorpho - Curated repository of digitally reconstructed neuron geometries](http://neuromorpho.org/)
 - [OSB - Open Source Brain](http://www.opensourcebrain.org/)
 - [OSBv2 - Open Source Brain version 2.0](https://v2.opensourcebrain.org/)
-- [OpenWorm - Popular platform for simulation and analysis of nematode
-  neuroscience models!](http://openworm.org/)
-- ["Integrated Models" RRID on SciCrunch - Compilation of model
-  sources](https://scicrunch.org/scicrunch/Resources/record/nlx_144509-1/SCR_001481/resolver)
+- [OpenWorm - Popular platform for simulation and analysis of nematode neuroscience models!](http://openworm.org/)
+- ["Integrated Models" RRID on SciCrunch - Compilation of model sources](https://scicrunch.org/scicrunch/Resources/record/nlx_144509-1/SCR_001481/resolver)
 
 -----------------------------------
 
 ### Organizations and Communities
 
 - [CodeNeuro - Bringing neuroscience and data science together](http://codeneuro.org/)
-- [CNS - Organization for Computational Neuroscience](http://www.cnsorg.org/)
+- [OCNS - Organization for Computational Neuroscience](http://www.cnsorg.org/)
 - [G-NODE - German Informatics Node](http://www.g-node.org/)
 - [INCF - International Neuroinformatics Coordinating
   Facility](https://www.incf.org/about)
