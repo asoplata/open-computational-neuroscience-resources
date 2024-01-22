@@ -58,9 +58,11 @@ Contributions are VERY welcome!
 - [Comparison of Neural Network
   Simulators](https://grey.colorado.edu/emergent/index.php/Comparison_of_Neural_Network_Simulators)
 - [Computational Neuroscience journals](http://www.cnsorg.org/journals)
-- [Jim Perlewitz' "Computational Neuroscience on the Web" - Probably the most
+- ["Computational Neuroscience on the Web" (Jim Perlewitz) - Probably the most
   comprehensive *curated* list of computational neuroscience modeling tools on
   the internet. HIGHLY recommended.](https://compneuroweb.com/)
+- ["Computational Neuroscience Resources" (Dan Goodman)](https://neural-reckoning.org/comp-neuro-resources.html)
+- ["Computational Neuroscience Resources" (Fleur Zeldenrust)](https://fleurzeldenrust.nl/computational-neuroscience-resources/)
 - [NCBI databases - National Center for Biotechnology Information database
   list, VERY comprehensive!](http://www.ncbi.nlm.nih.gov/guide/all/)
 - [neuroshare - Brief list of neuroscience data tools and vendors](http://neuroshare.sourceforge.net/links.shtml)
