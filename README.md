@@ -259,6 +259,7 @@ Contributions are VERY welcome!
 - [Notebook: Python notebooks from courseware on theoretical/computational neuroscience (for beginners)](https://dabane-ghassan.github.io/ModNeuro/)
 - [Textbook: Computational Cognitive
   Neuroscience (maybe 404'd as of 2022-11-21?)](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main)
+- [Textbook (online): Neural Data Science in Python](https://neuraldatascience.io/intro.html)
 - [Webpage: Biological Neural Networks: Part 1, Spiking Neurons - VERY cool webpage with interactive spiking neural models!](http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/)
 
 -----------------------------------
