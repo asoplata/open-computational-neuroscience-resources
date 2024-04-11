@@ -36,8 +36,9 @@ Contributions are VERY welcome!
     - [Meta-resources](#meta-resources)
     - [Markup Languages for Model Specification](#markup-languages-for-model-specification)
     - [Open Code](#open-code)
+        - [Analysis Software For Electrophysiology](#analysis-software-for-electrophysiology)
         - [Analysis Software For Imaging](#analysis-software-for-imaging)
-        - [Analysis Software For Everything Except Imaging](#analysis-software-for-everything-except-imaging)
+        - [Other Analysis Software](#other-analysis-software)
         - [Operating Systems](#operating-systems)
         - [Simulation Software](#simulation-software)
         - [Simulation Data Format and Management Software](#simulation-data-format-and-management-software)
@@ -46,7 +47,7 @@ Contributions are VERY welcome!
         - [Open Data Schema](#open-data-schema)
         - [Open Model Repositories](#open-model-repositories)
     - [Organizations and Communities](#organizations-and-communities)
-    - [Reproducibility](#reproducibility)
+    - [Reproducibility and Provenance](#reproducibility-and-provenance)
 
 -----------------------------------
 
@@ -99,56 +100,62 @@ Contributions are VERY welcome!
 
 ### Open Code
 
-- [Funding research software development](https://www.software.ac.uk/how-fund-research-software-development)
+##### Analysis Software For Electrophysiology
+
+- Note: "electrophysiology of neurons" (also called "ephys") is equivalent to the common term "neurophysiology". In neuroscience, unless it is mentioned explicitly, you can safely assume that "electrophysiology" is referring to that of *neuron cells* in particular, as opposed to electrophysiology of *non-neuron brain cells* like astrocytes, glia, etc.
+- [Elephant - Software for common electrophysiological data analysis
+  operations](http://neuralensemble.org/elephant/)
+    - Elephant is the direct successor to [Neurotools](http://neuralensemble.org/NeuroTools/)
+    - Elephant can consume electrophysiology data loaded by [Neo](http://neuralensemble.org/neo/)
+- [Neo - Python library for enabling interoperability of electrophysiological
+  data, including conversion from proprietary file
+  formats](http://neuralensemble.org/neo/)
+    - Note that Neo does not perform analysis or visualization, but instead is only for loading or converting between electrophysiology data types.
+- [(deprecated) OpenElectrophy - Analysis software for electrophysiological data, built on
+  Neo](http://neuralensemble.org/OpenElectrophy/)
+    - [OpenElectrophy's README](https://github.com/OpenElectrophy/OpenElectrophy) indicates that it is old, effectively abandoned, and you should use something else.
+- [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple)
+- [Spike Sorting Software - VERY good comparison of different spike sorting
+  software capabilities](https://simonster.github.io/SpikeSortingSoftware/)
+- [SpikeInterface - Spike sorting analysis specifically made for compatibility
+  between different sorting algorithms, part of the Open Ephys project](https://open-ephys.org/spikeinterface)
+- [SpykeViewer - Analysis software for spikes of electrophysiological data](http://neuralensemble.org/SpykeViewer/)
+      - SpykeViewer can consume electrophysiology data loaded by [Neo](http://neuralensemble.org/neo/)
 
 ##### Analysis Software For Imaging
 
-- [Allen SDK - Allen (Institute) Software Development Kit for Allen Brain
-  Atlas](http://alleninstitute.github.io/AllenSDK/)
 - [CaImAn - Calcium Imaging Analysis](https://github.com/flatironinstitute/CaImAn)
 - [CATMAID - The Collaborative Annotation Toolkit for Massive Amounts of Image
   Data](http://catmaid.readthedocs.io/en/stable/)
+- [Chronux - MATLAB toolbox for EEG analysis, including some tools for MEG, fMRI, and image data](http://chronux.org/)
+- [EEGLAB - MATLAB toolbox for EEG, MEG, and ECOG data analysis and
+  visualization](https://sccn.ucsd.edu/eeglab/index.php)
+- [FieldTrip - MATLAB toolbox for EEG, MEG, and ECoG analysis](http://www.fieldtriptoolbox.org/)
 - [FreeSurfer - Popular open-source MRI processing and analysis
   software](https://surfer.nmr.mgh.harvard.edu/)
+- [MNE - MEG + EEG analysis and visualization tool in
+  Python](http://martinos.org/mne/stable/index.html)
 - [NiBabel - Python library for enabling interoperability of neuroimaging data,
   including conversion from and between many file
-  formats](http://neuralensemble.org/neo/)
+  formats](https://nipy.org/nibabel/)
 - [NiMARE - NiMARE is a Python package for neuroimaging meta-analyses](https://nimare.readthedocs.io/en/latest/)
-- [TrakEM2 - Morphological data mining and analysis
-  tool](http://www.ini.uzh.ch/~acardona/trakem2.html)
+- [supereeg - Sparse ECoG analysis](http://supereeg.readthedocs.io/en/latest/)
+- [TrakEM2 - Morphological image (histological staining) data mining and analysis
+  plugin](https://syn.mrc-lmb.cam.ac.uk/acardona/INI-2008-2011/trakem2.html) for use as a [plugin for ImageJ](https://imagej.net/plugins/trakem2/) including as part of the [Fiji distribution](https://fiji.sc/)
 - [TREES - MATLAB toolbox for analyzing neuron
   microscopy](http://www.treestoolbox.org/)
 - [V-NeuroStack - 3D time stacks for finding patterns in spontaneous activity of
   neurons in mouse brain slices](https://www.evl.uic.edu/entry.php?id=2479)
 
-##### Analysis Software For Everything Except Imaging
+##### Other Analysis Software
 
-- [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://sites.google.com/site/bctnet/)
-- [Chronux - MATLAB toolbox for EEG analysis, including some tools for MEG, fMRI, and image data](http://chronux.org/)
-- [EEGLAB - MATLAB toolbox for EEG, MEG, and ECOG data analysis and
-  visualization](https://sccn.ucsd.edu/eeglab/index.php)
-- [Elephant - Software for common electrophysiological data analysis
-  operations, built on the Neo data
-  format](http://neuralensemble.org/elephant/)
-- [FieldTrip - MATLAB toolbox for EEG, MEG, and ECoG analysis](http://www.fieldtriptoolbox.org/)
+- [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://github.com/brainlife/BCT)
 - [Geppetto - Web-based, open-source visualization platform for computational
   biology](http://www.geppetto.org/)
-- [OpenElectrophy - Analysis software for electrophysiological data, built on
-  the Neo data format](http://neuralensemble.org/OpenElectrophy/)
-- [MNE - MEG + EEG analysis and visualization tool in
-  Python](http://martinos.org/mne/stable/index.html)
 - [NeuronUnit - Data-driven model validation for
   neuroscience](https://github.com/scidash/neuronunit)
-- [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple)
 - [SpectraVis - Network visualization tool for functional brain connectivity
   in-browser](https://github.com/NeurophysVis/SpectraVis)
-- [Spike Sorting Software - VERY good comparison of different spike sorting
-  software capabilities](https://simonster.github.io/SpikeSortingSoftware/)
-- [SpikeInterface - Spike sorting analysis specifically made for compatibility
-  between different sorting algorithms, part of the Open Ephys project](https://open-ephys.org/spikeinterface)
-- [SpykeViewer - Analysis software for spikes of electrophysiological data,
-  built on the Neo data format](http://neuralensemble.org/SpykeViewer/)
-- [supereeg - Sparse ECoG analysis](http://supereeg.readthedocs.io/en/latest/)
 - [Vaa3D - 3D Visualization-Assisted
   Analysis](http://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/vaa3d/)
 
@@ -275,7 +282,7 @@ Contributions are VERY welcome!
 - [Allen Brain Atlas Data Portal](http://brain-map.org/)
     - [More detail
       here](http://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/)
-    - [Associated software here](http://alleninstitute.github.io/AllenSDK/)
+    - [AllenSDK - How to programmatically download and use Allen data](http://alleninstitute.github.io/AllenSDK/)
 - [BODB - Brain Operation Database System](http://bodb.usc.edu/bodb/)
 - [BossDB.org — hundreds of terabytes of microscopy](https://bossdb.org/)
 - [Brain Slices- Repository of brain tissue images](https://brainslices.org/)
@@ -393,9 +400,16 @@ Contributions are VERY welcome!
   resources](https://www.reddit.com/r/neuroscience/comments/2u87cl/rneuroscience_resource_compilaton/)
 - [SFN - Society for Neuroscience](https://www.sfn.org/)
 
+##### Funding
+
+- [Funding research software development](https://www.software.ac.uk/how-fund-research-software-development)
+
 -----------------------------------
 
-### Reproducibility
+### Reproducibility and Provenance
 
 - [Tutorial on reproducible computational neuroscience research, from CNS 2012
   by author of Sumatra](https://rrcns.readthedocs.io/en/cns2012/)
+- [Alpaca - Provenance for data analysis in Python](https://alpaca-prov.readthedocs.io/en/latest/)
+    - Provides examples for use with [Neo](https://neuralensemble.org/neo/) and [Elephant](http://neuralensemble.org/elephant/)
+- [Snakemake - Scalable, reproducible workflows using a Python-like language](https://snakemake.readthedocs.io/en/stable/)
