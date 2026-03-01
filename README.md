@@ -117,6 +117,7 @@ Contributions are VERY welcome!
 - [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple)
 - [Spike Sorting Software - VERY good comparison of different spike sorting
   software capabilities](https://simonster.github.io/SpikeSortingSoftware/)
+- [Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes](https://github.com/MouseLand/Kilosort)
 - [SpikeInterface - Spike sorting analysis specifically made for compatibility
   between different sorting algorithms, part of the Open Ephys project](https://open-ephys.org/spikeinterface)
 - [SpykeViewer - Analysis software for spikes of electrophysiological data](http://neuralensemble.org/SpykeViewer/)
