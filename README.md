@@ -107,6 +107,7 @@ Contributions are VERY welcome!
   operations](http://neuralensemble.org/elephant/)
     - Elephant is the direct successor to [Neurotools](http://neuralensemble.org/NeuroTools/)
     - Elephant can consume electrophysiology data loaded by [Neo](http://neuralensemble.org/neo/)
+- [Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes](https://github.com/MouseLand/Kilosort)
 - [Neo - Python library for enabling interoperability of electrophysiological
   data, including conversion from proprietary file
   formats](http://neuralensemble.org/neo/)
@@ -139,6 +140,7 @@ Contributions are VERY welcome!
   including conversion from and between many file
   formats](https://nipy.org/nibabel/)
 - [NiMARE - NiMARE is a Python package for neuroimaging meta-analyses](https://nimare.readthedocs.io/en/latest/)
+- [suite2p - Fast, scalable calcium imaging pipeline for cell detection (ROI extraction), neuropil correction, signal extraction, and spike deconvolution from two-photon microscopy data](https://github.com/MouseLand/suite2p)
 - [supereeg - Sparse ECoG analysis](http://supereeg.readthedocs.io/en/latest/)
 - [TrakEM2 - Morphological image (histological staining) data mining and analysis
   plugin](https://syn.mrc-lmb.cam.ac.uk/acardona/INI-2008-2011/trakem2.html) for use as a [plugin for ImageJ](https://imagej.net/plugins/trakem2/) including as part of the [Fiji distribution](https://fiji.sc/)
