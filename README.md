@@ -107,6 +107,7 @@ Contributions are VERY welcome!
   operations](http://neuralensemble.org/elephant/)
     - Elephant is the direct successor to [Neurotools](http://neuralensemble.org/NeuroTools/)
     - Elephant can consume electrophysiology data loaded by [Neo](http://neuralensemble.org/neo/)
+- [Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes](https://github.com/MouseLand/Kilosort)
 - [Neo - Python library for enabling interoperability of electrophysiological
   data, including conversion from proprietary file
   formats](http://neuralensemble.org/neo/)
