@@ -107,6 +107,7 @@ Contributions are VERY welcome!
   operations](http://neuralensemble.org/elephant/)
     - Elephant is the direct successor to [Neurotools](http://neuralensemble.org/NeuroTools/)
     - Elephant can consume electrophysiology data loaded by [Neo](http://neuralensemble.org/neo/)
+- [Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes](https://github.com/MouseLand/Kilosort)
 - [Neo - Python library for enabling interoperability of electrophysiological
   data, including conversion from proprietary file
   formats](http://neuralensemble.org/neo/)
@@ -117,7 +118,6 @@ Contributions are VERY welcome!
 - [Pynapple - "PYthon Neural Analysis Package" for neurophysiological data analysis](https://github.com/pynapple-org/pynapple)
 - [Spike Sorting Software - VERY good comparison of different spike sorting
   software capabilities](https://simonster.github.io/SpikeSortingSoftware/)
-- [Kilosort - GPU-accelerated spike sorting for large-scale extracellular recordings, widely used with Neuropixels probes](https://github.com/MouseLand/Kilosort)
 - [SpikeInterface - Spike sorting analysis specifically made for compatibility
   between different sorting algorithms, part of the Open Ephys project](https://open-ephys.org/spikeinterface)
 - [SpykeViewer - Analysis software for spikes of electrophysiological data](http://neuralensemble.org/SpykeViewer/)
