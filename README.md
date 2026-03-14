@@ -139,6 +139,7 @@ Contributions are VERY welcome!
   including conversion from and between many file
   formats](https://nipy.org/nibabel/)
 - [NiMARE - NiMARE is a Python package for neuroimaging meta-analyses](https://nimare.readthedocs.io/en/latest/)
+- [suite2p - Fast, scalable calcium imaging pipeline for cell detection (ROI extraction), neuropil correction, signal extraction, and spike deconvolution from two-photon microscopy data](https://github.com/MouseLand/suite2p)
 - [supereeg - Sparse ECoG analysis](http://supereeg.readthedocs.io/en/latest/)
 - [TrakEM2 - Morphological image (histological staining) data mining and analysis
   plugin](https://syn.mrc-lmb.cam.ac.uk/acardona/INI-2008-2011/trakem2.html) for use as a [plugin for ImageJ](https://imagej.net/plugins/trakem2/) including as part of the [Fiji distribution](https://fiji.sc/)
