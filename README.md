@@ -150,6 +150,7 @@ Contributions are VERY welcome!
 ##### Other Analysis Software
 
 - [bctnet - Brain Connectivity Toolbox for complex-network analysis](https://github.com/brainlife/BCT)
+- [DeepLabCut - Markerless pose estimation for quantifying behavior and movement kinematics in neuroscience experiments, using transfer learning from ImageNet-pretrained networks](https://github.com/DeepLabCut/DeepLabCut)
 - [Geppetto - Web-based, open-source visualization platform for computational
   biology](http://www.geppetto.org/)
 - [NeuronUnit - Data-driven model validation for
