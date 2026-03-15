@@ -164,7 +164,7 @@ Contributions are VERY welcome!
 - [Nengo - Large-scale neural simulator](https://www.nengo.ai/)
 - [NEST - A popular, actively developed neural simulator that can simulate large neural systems](http://www.nest-simulator.org/)
 - [neurolib - A Python simulation framework for easy whole-brain neural mass modeling](https://caglorithm.github.io/notebooks/neurolib-intro/)
-- [NEURON - The most popular computational neuroscience model simulator, focusing on biophysical modelling](https://neuron.yale.edu/neuron/)
+- [NEURON - The most popular computational neuroscience model simulator, focusing on biophysical modelling](https://nrn.readthedocs.io/)
     - [CoreNeuron - Optimized, simplified NEURON implementation used by the Blue Brain Project. Previously, this was a separate extension, but has now been integrated into standard NEURON](https://github.com/BlueBrain/CoreNeuron)
 - [NeuroRD - "A computationally efficient, stochastic reaction-diffusion simulator".](http://krasnow1.gmu.edu/CENlab/software.html)
 - [PyRhO - Virtual laboratory for optogenetic simulation. Integrates with NEURON and Brian2 models.](https://github.com/ProjectPyRhO/PyRhO)
