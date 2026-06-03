@@ -126,6 +126,7 @@ Contributions are VERY welcome!
     - [NiBabel - Python library for enabling interoperability of neuroimaging data, including conversion from and between many file formats](https://nipy.org/nibabel/)
     - [NiMARE - NiMARE is a Python package for neuroimaging meta-analyses](https://nimare.readthedocs.io/en/latest/)
     - [supereeg - Sparse ECoG analysis](http://supereeg.readthedocs.io/en/latest/)
+    - [PyNoetic - A Modular Python Framework for No-Code Development of EEG Brain-Computer Interfaces](https://github.com/NeuroDiag/PyNoetic-official)
 
 #### Other Analysis Software
 
